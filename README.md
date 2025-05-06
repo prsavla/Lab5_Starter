@@ -9,3 +9,9 @@ Name: Pratham Savla
 
 Would you use a unit test to test the “max message length” feature?
 - Yes, it makes a lot more sense to use a unit test here because you can quickly verify if the size is 80 characters or less.
+
+- Link To EXPOSE:
+- [Open Expose Page](./expose.html)
+
+- Link To EXPLORE:
+- [Open Explore Page](./explore.html)
